@@ -1,5 +1,5 @@
 "use client";
-import { useIsMobile } from "@/hooks/use-mobile";
+import { useIsMobile } from "@/src/hooks/use-mobile";
 import React, { ReactNode } from "react";
 import { SidebarTrigger } from "./ui/sidebar";
 
